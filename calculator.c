@@ -2,6 +2,8 @@
 
 int main()
 {
+    printf("JASMIN'S MINI CALCULATOR\n------------------------\n");
+
     int firstNum, secondNum, sumNum, diffNum, productNum, quotientNum, moduloNum;
 
     printf("Enter first number: ");
