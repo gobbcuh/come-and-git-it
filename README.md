@@ -69,5 +69,4 @@ This calculator program is **extremely basic** and was created as part of the wo
 
 ## 🙌 Acknowledgments  
 
-A big thanks to **Ms. Darla David**, the creator of the [YouTube workshop](https://youtu.be/letSHU7ZnLA?si=TLoiae27VsxsrlcA), for providing a beginner-friendly guide to Git and GitHub.  
-You may visit the workshop to follow along and learn how to commit and push projects to GitHub yourself! 🌟  
+A big thanks to **Ms. Darla David**, the creator of the [YouTube workshop](https://youtu.be/letSHU7ZnLA?si=TLoiae27VsxsrlcA), for providing a beginner-friendly guide to Git and GitHub. You may visit the workshop to follow along and learn how to commit and push projects to GitHub yourself! 🌟  
