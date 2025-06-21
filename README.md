@@ -1,4 +1,4 @@
-# 🎯 Simple Calculator Exercise
+# Simple Calculator Exercise
 
 This repository was created as part of my learning journey in using Git and GitHub, following a workshop on YouTube entitled **"Come and Git It."** It includes a simple calculator program written in the **C programming language**. 
 
@@ -7,20 +7,20 @@ This repository was created as part of my learning journey in using Git and GitH
 ## 🛠️ Purpose
 
 The main purpose of this repository is to practice:
-- 🌀 Initializing a Git repository  
-- ✍️ Writing and committing code  
-- 📤 Pushing a project to GitHub  
-- 🧩 Understanding the basics of version control  
+- Initializing a Git repository  
+- Writing and committing code  
+- Pushing a project to GitHub  
+- Understanding the basics of version control  
 
 ---
 
 ## 🖩 About the Program
 
 This calculator program is **extremely basic** and was created as part of the workshop. It performs simple operations such as:
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division  
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
 
 > **Note:** This program is not intended to be a fully-featured calculator but rather serves as an exercise to demonstrate GitHub workflows.
 
